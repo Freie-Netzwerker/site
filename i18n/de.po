@@ -28,6 +28,6 @@ msgstr ""
 "Der Knoten startet gerade neu und wird anschließend versuchen, "
 "sich mit anderen Freifunkknoten im Netz zu verbinden. "
 "Mehr zu Freifunk in Hennef findest du online unter: "
-<a href="http://www.freifunk-hennef.de">www.freifunk-hennef.de</a> "oder "
-<a href="http://www.freie-netzwerker.de">www.freie-netzwerker.de</a>
+"<a href=\"http://www.freifunk-hennef.de/\">www.freifunk-hennef.de</a>" "oder "
+"<a href=\"http://www.freie-netzwerker.de/\">www.freie-netzwerker.de</a>"
 "Viel Spaß mit deinem Knoten und der Erkundung von Freifunk! "
