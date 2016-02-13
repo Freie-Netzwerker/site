@@ -26,10 +26,5 @@ ar71xx-generic
         My Net N600
         My Net N750
 
-x86-xen_domu
 
-New target containing the necessary drivers for use in Xen.
-x86-64
-
-64bit version of x86-generic. The generic image can also be used in KVM with VirtIO.
 
