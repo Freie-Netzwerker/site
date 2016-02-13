@@ -1,6 +1,6 @@
 site
 ====
-Gluon 2016.1 (in development)
+Gluon 2016.1
 Added hardware support
 ar71xx-generic
 
